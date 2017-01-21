@@ -44,10 +44,5 @@ The Nice Guys
 
 The capabilities I wish to develop range from poetic thought, to technical comprehension. The world is elegant and concise. I wish to develop my thought process toward that end. Technical comprehension is important to an engineer. I will develop my logical thinking, and my atriculation for technical subjects. 
 
-Technical Capacity
-- Python
-- Application Development
-- Github
-
 
 A Bachelors is only the beginning for my personal development and I am excited to continue to learn, develop and experiance. 
