@@ -1,0 +1,92 @@
+Cumulative Cost of School
+'''''''''''''''''''''''''
+
+
+
+Section One: Job Information and Outlook (5 points)
+For this section you are going to find out what the educational requirements, job outlook and earning
+expectations are for your chosen field. More specifically, this section of your report should include the
+following information: ·Your chosen career ·Job qualifications ·Education requirements ·List the job
+outlook, including future employment expectations ·Earnings (low, median and high.)
+
+
+My chosen career is a Computer Engineer with a leaning towards Software. The job qualification is a computer programming skills.
+The educational requirement is a Bachelors Degree. The job outlook is 22% increase. Future employment is high because of the growing need
+for software systems. The median wage for Systems Software Developers was $99,000 in May 2012.
+
+
+Section Two: Local Wages (5 points)
+The average weekly wage for a job in Information in San Luis Obispo is $1,128 or $61,464 per year. 
+This is 39% less than the nation wide median pay. A large factor in pay is living costs. If the living costs of San Luis Obispo
+are 39% less than an area with $99,000 / year pay then pay is similar. 
+
+
+Section Three: Cost of your chosen career (5 points)
+
+Current Education Costs
+
+Tution
+(An avereage of perious receipts)
+$900 / semester * 8 semesters = $7200
+
+Housing and Allowance
+$ 900 / month * 48 months = $43,200
+
+Total = $50,400
+
+Future Education Costs (UCSC Estimate)
+http://financialaid.ucsc.edu/costs/2015-16%20undergraduate-costs.html
+I will be considered an in-state student. I expect 3 years to be the maximum I spend at UCSC. 
+
+30,627  / year * 3 years = $91,881
+
+My parents and grandparents will help me pay for my Education without interest. 
+
+
+Opporunity Cost
+$8 x 8 hrs / day = $64 per day,
+$64 x 5 days / week = $320 per week, $320 x 52 weeks per year = $16,640 year
+
+$16,640 * 7 years = $116,480
+
+Total Education Cost: 91,881 + 50,400 + 116,480
+  					: $258,761
+
+Section Four: Simple Short-Run
+
+I assume I can put 30% of a 99,000 wage towards paying off school.
+Total Education Cost: $258,761
+Yearly payback: .3 * 99,000 = 29,700
+258,761 / 29,700 =  8.7 = 9 years
+
+Saving 30% a year will have my educations costs payed off in 9 years. 
+
+Section Four: Simple Long-Run
+10 Years Software Development
+99,000 + 99,000(1.05) + 103950(1.05) + 109147(1.05) + 114604(1.05) + 120335(1.05) + 126351(1.05) + 132669(1.05) + 139302(1.05) + 146268(1.05)
+= $1,245,207.3
+10 Years Minimum Wage
+16,640 + 16640(1.05) + 17472(1.05) + 18345(1.05) + 19262(1.05) + 20226(1.05) + 21237(1.05) + 22299(1.05) + 23414(1.05) + 24584(1.05) + 25814(1.05)
+= $236,397.65
+
+Software Engineers make about 5 times as much as a minimum wage job.
+
+Section 5: Impacts of Technology
+
+A technological skill needed to be a Software Developer is an understanding of the Software Engineering Paradigms. New development paradigms emerge and in order for a developer to stay competitive they must move with the curve. Examples of this are the tradidional waterfall development paradigm
+and the Agile Development paradigm. These paradigms have less to do with software concepts as they do with development practices. Development practices change as the capability of electronic technology evolves. One of the evolving fields in software is Embedded Software Synthesis. This
+makes it easier to program embedded devices. The impact of such technology evolution will increase the demand for software developers who are
+able to learn quickly. Another technological evolution is in Intelligent Systems. It is possible that an intelligent system could produce software faster and better than a human. As seen, the employment outlook for software development is very positive. 
+
+https://en.wikipedia.org/wiki/Waterfall_model
+https://en.wikipedia.org/wiki/Agile_software_development
+http://ptolemy.eecs.berkeley.edu/papers/99/synthesis/article.pdf
+
+Section 6: Summary
+
+The opprotunity cost in getting an education is not appreciable in the short or long term. It only takes 8 years to pay back
+education costs. The starting salary for Software Developers is 5 times as much as minimum wage. The marginal short term benifit of education
+includes: $99,000 yearly wage. The short term marginal cost includes: 8 years payback along with an insignificant opprotunity cost. The long term marginal benifit (10 years) is: $1,245,207.3. The long term marginal cost is the opprotunity cost of not working a minimum wage job: $236,397.65  Given that the short term marginal cost is temporary and the long term marginal benifit greatly excedes the marginal cost of a minimum wage job, one is motivated to pursue education. 
+
+I think my choosen careen path is a good investment. The employment of Software Developers is seen to grow. The further development of electronic technology is likely to increase the demand for software developers. I do not have any concerns about the long term viability of software development. 
+
