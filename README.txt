@@ -1,4 +1,8 @@
-My goals for my 20's are to develop myself as a person and to develop certain capabilities. Developing my person hood involves gaining a better understanding of how I optimally operate, what I enjoy, what I dislike, and how I think about things. 
+My goals for my 20's are to develop myself as a person and to develop certain 
+capabilities. Developing my person hood involves gaining a better understanding 
+of how I optimally operate, what I enjoy, what I dislike, and how I think about 
+things. The capabilites I wish to develop are my writing style, vocabulary, 
+and engineering proficency.  
 
 What I Enjoy
 - Decent conversation
@@ -18,15 +22,16 @@ What I Dislike
 - Biting my fingernails
 
 Framework of Mind
-.
-.
-.
+- Christ
 
 
-Personal development can be driven by experience. Books provide a source of inspiration. They allow one to enter the personalities of individuals. We can learn from the success and flaws of story characters. 
+Personal development can be driven by experience. Books provide a source of 
+inspiration. They allow one to enter the personalities of individuals. 
+We can learn from the success and flaws of story characters. 
 
 
 Great Books and stories
+'''''''''''''''''''''''
 Alaska - James Michener 
 Space  - James Michener
 Cloud Atlas - David Mitchell
@@ -35,14 +40,20 @@ Isebella; or the Pot - John Keats
 Dorian Gray - Oscar Wilde
 The Time Traveler - H.G. Wells
 The Walk - Stephen King
+Lost Horizon - James Hilton
+The Bible
 
 Great Films
+'''''''''''
 The Infiltrator 
 The Nice Guys
+Cloud Atlas
+Das Boot
+Saving Pvt Ryan
 
-
-
-The capabilities I wish to develop range from poetic thought, to technical comprehension. The world is elegant and concise. I wish to develop my thought process toward that end. Technical comprehension is important to an engineer. I will develop my logical thinking, and my atriculation for technical subjects. 
-
-
-A Bachelors is only the beginning for my personal development and I am excited to continue to learn, develop and experiance. 
+Nice Music
+''''''''''
+Nils Frahm
+Max Richter
+Gretchen Parlato
+Jesse Cook
