@@ -28,34 +28,3 @@ Framework of Mind
 Personal development can be driven by experience. Books provide a source of 
 inspiration. They allow one to enter the personalities of individuals. 
 We can learn from the success and flaws of story characters. 
-
-
-Great Books and stories
-'''''''''''''''''''''''
-Alaska - James Michener 
-Space  - James Michener
-Cloud Atlas - David Mitchell
-Sherlock Holmes - Sir Authur Connan Doyle
-Isebella; or the Pot - John Keats
-Dorian Gray - Oscar Wilde
-The Time Traveler - H.G. Wells
-The Walk - Stephen King
-Lost Horizon - James Hilton
-The Bible
-
-Great Films
-'''''''''''
-The Infiltrator 
-The Nice Guys
-Cloud Atlas
-Das Boot
-Saving Pvt Ryan
-
-Nice Music
-''''''''''
-Nils Frahm
-Max Richter
-Gretchen Parlato
-Jesse Cook
-Sade
-
