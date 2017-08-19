@@ -1,31 +1,96 @@
-Reddit
-scartonbot
+Reddit scartonbot
 
 Maybe we're all looking at this the wrong way.
 
-The major economic systems that have been duking it out over the past several centuries -- capitalism, communism, and socialism-- all have focused on two things: labor and control of the means of production.
+The major economic systems that have been duking it out over the past several
+centuries -- capitalism, communism, and socialism-- all have focused on two
+things: labor and control of the means of production.
 
-Both of these concerns made total sense in terms of world of the Industrial Revolution and the world that came out of it. Mass production needed lots of people -- labor-- to create lots of stuff for all of those people to buy. The means of production were limited because the barrier to entry was so high i.e. it costs a lot of money to create a factory, buy raw materials, and then distribute the products made by that factory over a wide geographic area.
+Both of these concerns made total sense in terms of world of the Industrial
+Revolution and the world that came out of it. Mass production needed lots of
+people -- labor-- to create lots of stuff for all of those people to buy. The
+means of production were limited because the barrier to entry was so high
+i.e. it costs a lot of money to create a factory, buy raw materials, and
+then distribute the products made by that factory over a wide geographic area.
 
-When this is how goods are produced, the arguments made by proponents of capitalism, communism, and socialism all make sense in their own way. Each of these systems takes a different approach, but the core of what they're arguing about is still the same: labor and the means of production.
+When this is how goods are produced, the arguments made by proponents of
+capitalism, communism, and socialism all make sense in their own way. Each
+of these systems takes a different approach, but the core of what they're
+arguing about is still the same: labor and the means of production.
 
-But there's one important factor pertaining to labor that all these economic systems take for granted: "labor" is something that can be done by most adult members of the society because the bulk of what needs to be done doesn't require any particularly special physical or mental abilities beyond the ones most humans are born with.
+But there's one important factor pertaining to labor that all these economic
+systems take for granted: "labor" is something that can be done by most adult
+members of the society because the bulk of what needs to be done doesn't
+require any particularly special physical or mental abilities beyond the
+ones most humans are born with.
 
-Of course, over time the physical and mental abilities required for productive labor changed. Machines replaced hands because machines were cheaper in the long run and easier to manage. The Industrial Revolution required a higher level of skill than the agrarian times before, and so we invented public schools to train the basic requirements needed for productive labor into the workforce and invented the modern system of higher education to train the people who were going to manage the labor, invent new products and services, keep workers healthy and productive, or help keep the ever-more complex intellectual "machinery" of government, the law, and the financial systems running smoothly.
+Of course, over time the physical and mental abilities required for productive
+labor changed. Machines replaced hands because machines were cheaper in the
+long run and easier to manage. The Industrial Revolution required a higher
+level of skill than the agrarian times before, and so we invented public
+schools to train the basic requirements needed for productive labor into the
+workforce and invented the modern system of higher education to train the
+people who were going to manage the labor, invent new products and services,
+keep workers healthy and productive, or help keep the ever-more complex
+intellectual "machinery" of government, the law, and the financial systems
+running smoothly.
 
-This system has worked fine, but technology and automation have been slowly nibbling away at its underpinnings since the beginning, sowing the seeds of its own destruction. The more sophisticated technology gets, the fewer humans are needed.
+This system has worked fine, but technology and automation have been slowly
+nibbling away at its underpinnings since the beginning, sowing the seeds
+of its own destruction. The more sophisticated technology gets, the fewer
+humans are needed.
 
-At first these changes replace the labor needed for mass production, shifting the need for workers to either those jobs that aren't worth replacing with robots -- service, for the most part-- or jobs that computers aren't smart enough to do: i.e. "knowledge work." But as automation technology becomes more sophisticated, more and more of those service jobs get automated out of existence. As our information processing technologies become more sophisticated, much of the work previously done by "white collar" "knowledge workers" is being automated out of existence as well.
+At first these changes replace the labor needed for mass production, shifting
+the need for workers to either those jobs that aren't worth replacing with
+robots -- service, for the most part-- or jobs that computers aren't smart
+enough to do: i.e. "knowledge work." But as automation technology becomes
+more sophisticated, more and more of those service jobs get automated
+out of existence. As our information processing technologies become more
+sophisticated, much of the work previously done by "white collar" "knowledge
+workers" is being automated out of existence as well.
 
-Throughout all this, the intellectual bar that one has to be able to leap over to be a productive worker keeps getting higher and higher and the number of workers needed keeps shrinking. At one time a high school diploma was all that was needed to be qualified for many jobs. Then it was a college degree. Today, entry to high-paying jobs requires , in an increasing number of industries, a graduate degree. The lesser educated and less intellectually gifted work service jobs and become the engines of the "gig economy." For now.
+Throughout all this, the intellectual bar that one has to be able to leap over
+to be a productive worker keeps getting higher and higher and the number of
+workers needed keeps shrinking. At one time a high school diploma was all that
+was needed to be qualified for many jobs. Then it was a college degree. Today,
+entry to high-paying jobs requires , in an increasing number of industries,
+a graduate degree. The lesser educated and less intellectually gifted work
+service jobs and become the engines of the "gig economy." For now.
 
-But if you look at the trend vectors, it's clear that what can be automated will be automated eventually. It just makes (at least in the short term) economic sense. Bots are cheaper and easier to manage than people. And as the tech takes over more and more, the gap between those who are employable and those who aren't will continue to widen because the intellectual demands required for productive work will continue to increase.
+But if you look at the trend vectors, it's clear that what can be automated
+will be automated eventually. It just makes (at least in the short term)
+economic sense. Bots are cheaper and easier to manage than people. And as
+the tech takes over more and more, the gap between those who are employable
+and those who aren't will continue to widen because the intellectual demands
+required for productive work will continue to increase.
 
-Of course, the big problem with this scenario is that it's unsustainable. Automating production or outsourcing it to low-cost developing countries means higher profits through reduced costs... but only if people have money to buy stuff. If jobs are automated out of existence and people have no way of making money then it doesn't matter how efficient your means of production are.
+Of course, the big problem with this scenario is that it's
+unsustainable. Automating production or outsourcing it to low-cost developing
+countries means higher profits through reduced costs... but only if people
+have money to buy stuff. If jobs are automated out of existence and people
+have no way of making money then it doesn't matter how efficient your means
+of production are.
 
-We're now entering a time when the old arguments over economic systems don't make sense anymore because they're based on assumptions that no longer reflect reality. Everything's changed and -- barring any great catastrophe-- the old days ain't coming back. We need new thinking about what "labor" means in a world where humans are no longer needed to do most jobs. We need new thinking about what "production" means when many of the goods we consume are virtual and when new technologies bring the means of production to the desktop. We need new thinking about what "service" means when humans don't have to be the ones doing the serving. And we even need to rethink what it means to be a "professional" in a world where many professions can be done quite well by computers, computers that don't have a need for salaries, education, or vacations.
+We're now entering a time when the old arguments over economic systems
+don't make sense anymore because they're based on assumptions that no longer
+reflect reality. Everything's changed and -- barring any great catastrophe--
+the old days ain't coming back. We need new thinking about what "labor"
+means in a world where humans are no longer needed to do most jobs. We need
+new thinking about what "production" means when many of the goods we consume
+are virtual and when new technologies bring the means of production to the
+desktop. We need new thinking about what "service" means when humans don't
+have to be the ones doing the serving. And we even need to rethink what it
+means to be a "professional" in a world where many professions can be done
+quite well by computers, computers that don't have a need for salaries,
+education, or vacations.
 
-Looking at the idea of a universal basic income in terms of the old "as someone who works, why should I have to pay for people to lay around all day" paradigm is pretty short sighted and, frankly, disconnected from reality. Chances are, if those of us in jobs that require a high level of education and/or a high level of skill acquired after lots of training look around and are honest with ourselves, we have to ask the question: where are those people who don't have what we have going to work?
+Looking at the idea of a universal basic income in terms of the old
+"as someone who works, why should I have to pay for people to lay around
+all day" paradigm is pretty short sighted and, frankly, disconnected from
+reality. Chances are, if those of us in jobs that require a high level of
+education and/or a high level of skill acquired after lots of training
+look around and are honest with ourselves, we have to ask the question:
+where are those people who don't have what we have going to work?
 
 Increasingly the answer is "nowhere."
 

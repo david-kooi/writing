@@ -1,36 +1,46 @@
-Reddit
-fairpixels
+Reddit fairpixels
 
-Here's the list of tools, services and stories that can help you build your business. These are collected over the last couple of weeks, put them all together in a list for myself and thought others would benefit as well. Here we go. Enjoy!
-Products/Services:
+Here's the list of tools, services and stories that can help you build your
+business. These are collected over the last couple of weeks, put them all
+together in a list for myself and thought others would benefit as well. Here
+we go. Enjoy!  Products/Services:
 
 Productivity
 
-    Zapier - Automate business tasks, get more out of your data. It's IFTTT with a focus on helping small and bigger businesses be more productive by making the web work for them.
+    Zapier - Automate business tasks, get more out of your data. It's IFTTT
+    with a focus on helping small and bigger businesses be more productive
+    by making the web work for them.
 
 Design
 
-    Fairpixels - Get your logo, brand or app designed on a pay-what-you-want basis. *Disclaimer, founder here.
+    Fairpixels - Get your logo, brand or app designed on a pay-what-you-want
+    basis. *Disclaimer, founder here.
 
 Launch your mobile app
 
-    Astronaut.Design - Calculate how much it costs to get your mobile app idea designed & developed by a professional team.
+    Astronaut.Design - Calculate how much it costs to get your mobile app
+    idea designed & developed by a professional team.
 
 Development
 
-    Kimono - Turn websites into structured APIs from your browser in seconds. Even if you're not a developer, you can start making APIs instantly. Very cool.
+    Kimono - Turn websites into structured APIs from your browser in
+    seconds. Even if you're not a developer, you can start making APIs
+    instantly. Very cool.
 
 Prototyping
 
-    Proto.io - A web platform that enables you to create fully interactive mobile app prototypes.
+    Proto.io - A web platform that enables you to create fully interactive
+    mobile app prototypes.
 
 Finance
 
-    FreeInvoiceGenerator - Exactly what it says. A free, simple and straight forward invoice generator.
+    FreeInvoiceGenerator - Exactly what it says. A free, simple and straight
+    forward invoice generator.
 
 Customer Support
 
-    Katana - Turn your visitors into customers with real-time video customer support.
+    Katana - Turn your visitors into customers with real-time video customer
+    support.
 
 Press
 
@@ -38,7 +48,8 @@ Press
 
 Payment Service
 
-    Chargebee - Affordable subscription billing & recurring billing solution for online webapps.
+    Chargebee - Affordable subscription billing & recurring billing solution
+    for online webapps.
 
 Marketing
 
@@ -50,7 +61,8 @@ Customer Feedback
 
 Presentation
 
-    Flowvella - Presentation software for Mac + iPad. Easily create beautiful presentations with this handy tool.
+    Flowvella - Presentation software for Mac + iPad. Easily create beautiful
+    presentations with this handy tool.
 
 Polls
 
@@ -58,11 +70,13 @@ Polls
 
 Videos
 
-    Handson.tv - Discover, learn & share entrepreneurship through video content.
+    Handson.tv - Discover, learn & share entrepreneurship through video
+    content.
 
 Investor
 
-    Future Angel Investor - A free & comprehensive course on how to angel invest online.
+    Future Angel Investor - A free & comprehensive course on how to angel
+    invest online.
 
 SaaS
 
@@ -70,7 +84,8 @@ SaaS
 
 Webdesign
 
-    Bootstrap zero - The largest open-source, free bootstrap template collection.
+    Bootstrap zero - The largest open-source, free bootstrap template
+    collection.
 
 Email
 
@@ -78,11 +93,13 @@ Email
 
 Productivity
 
-    Tomato.es - Tomatoes is a "pomodoro tracker", a Pomodoro technique driven time tracker. Track your time using 25 minutes slots called "pomodoros".
+    Tomato.es - Tomatoes is a "pomodoro tracker", a Pomodoro technique driven
+    time tracker. Track your time using 25 minutes slots called "pomodoros".
 
 Design
 
-    Mobirise - Create awesome mobile friendly websites without coding and it's free.
+    Mobirise - Create awesome mobile friendly websites without coding and
+    it's free.
 
 Development
 
@@ -90,7 +107,8 @@ Development
 
 Prototyping
 
-    Quickmvp.com - Software that combines a Landing Page Builder with a Google Ad Creator in one tool to quickly validate ideas.
+    Quickmvp.com - Software that combines a Landing Page Builder with a
+    Google Ad Creator in one tool to quickly validate ideas.
 
 Finance
 
@@ -98,7 +116,8 @@ Finance
 
 Customer Support
 
-    SupportKit - Chat with your iOS, Android or Web app's users from Slack, Email, Zendesk or your favourite CRM.
+    SupportKit - Chat with your iOS, Android or Web app's users from Slack,
+    Email, Zendesk or your favourite CRM.
 
 Press
 
@@ -106,7 +125,8 @@ Press
 
 Marketing
 
-    Polarbear - Post messages and links to multiple social networks and blogs at once!
+    Polarbear - Post messages and links to multiple social networks and
+    blogs at once!
 
 Customer Feedback
 
@@ -118,7 +138,8 @@ Videos
 
 Investor
 
-    Dealroom - Direct and secure access to the world's most sophisticated investors.
+    Dealroom - Direct and secure access to the world's most sophisticated
+    investors.
 
 Email
 
@@ -130,7 +151,8 @@ Better Social Media Images
 
 Customer Development
 
-    Intercom.io - Have live conversations with users inside your web and mobile apps.
+    Intercom.io - Have live conversations with users inside your web and
+    mobile apps.
 
 Get Press
 
@@ -158,19 +180,20 @@ Metrics
 
 Business Data
 
-    Neatly.io - A secure dashboard with all your business data, neatly under one roof.
+    Neatly.io - A secure dashboard with all your business data, neatly under
+    one roof.
 
 Stories:
 
-    "How I Tricked TechCrunch into writing about my startup, and accidentally launched Betalist"
-    "How I started a magazine, it's pretty good and I'm just some guy"
-    "How I started my first startup in the education domain"
-    "How I launched my app as a solo none-tech-first-time-founder and a fulltime dad"
-    "How I launched the #1 most upvoted product of all time on Product Hunt"
-    "How we built a lean startup inside a 200 person company"
-    "How we grew our blog to 5000+ subscribers in 5 weeks"
-    "How we grew our side project to $60.000 in revenue in 6 months"
-    "How we built a SaaS business and got our first paying customer in 60 days"
-    "How I got 50,851 views on Slideshare and 706 email subscribers for less than $350"
+    "How I Tricked TechCrunch into writing about my startup, and accidentally
+    launched Betalist" "How I started a magazine, it's pretty good and I'm
+    just some guy" "How I started my first startup in the education domain"
+    "How I launched my app as a solo none-tech-first-time-founder and a
+    fulltime dad" "How I launched the #1 most upvoted product of all time on
+    Product Hunt" "How we built a lean startup inside a 200 person company"
+    "How we grew our blog to 5000+ subscribers in 5 weeks" "How we grew
+    our side project to $60.000 in revenue in 6 months" "How we built a
+    SaaS business and got our first paying customer in 60 days" "How I got
+    50,851 views on Slideshare and 706 email subscribers for less than $350"
     "How I got my first 1000 users in 1 day"
 

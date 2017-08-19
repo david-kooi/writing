@@ -1,7 +1,9 @@
 Reddit
 
 
-Harold Bloom in How to Read and Why sets out the following list of books, books which he believes have the power to instill in one a life-long love of aesthetically and intellectually great literature.
+Harold Bloom in How to Read and Why sets out the following list of books,
+books which he believes have the power to instill in one a life-long love
+of aesthetically and intellectually great literature.
 
 Short Stories
 
@@ -11,9 +13,11 @@ Short Stories
 
     Guy de Maupassant "Madame Tellier's Establishment" and "The Horla"
 
-    Ernest Hemingway "Hill Like White Elephants" and "God Rest You Merry, Gentleman" and "The Snows of Kilimanjaro" and "A Sea Change"
+    Ernest Hemingway "Hill Like White Elephants" and "God Rest You Merry,
+    Gentleman" and "The Snows of Kilimanjaro" and "A Sea Change"
 
-    Flannery O'Connor "A Good Man is Hard to Find" and "Good Country People" and "A View of the Woods"
+    Flannery O'Connor "A Good Man is Hard to Find" and "Good Country People"
+    and "A View of the Woods"
 
     Vladimir Nabokov's "The Vane Sisters"
 
@@ -45,11 +49,14 @@ Poems
 
     Anonymous "Tom O'Bedlam"
 
-    Shakespeare's "Sonnet 121 - Tis Better to Be Vil Than Vile Esteemed" and "Sonnet 129 - The Expense of Spirit in a Waste of Shame" and "Sonnet 144 - Two Loves I have, of Comfort and Despair"
+    Shakespeare's "Sonnet 121 - Tis Better to Be Vil Than Vile Esteemed" and
+    "Sonnet 129 - The Expense of Spirit in a Waste of Shame" and "Sonnet 144 -
+    Two Loves I have, of Comfort and Despair"
 
     John Milton "Paradise Lost"
 
-    William Wordsworth "A Slumber Did My Spirit Seal" and "My Heart Leaps Up When I Behold"
+    William Wordsworth "A Slumber Did My Spirit Seal" and "My Heart Leaps
+    Up When I Behold"
 
     Samuel Taylor Coleridge "The Rime of the Ancient Mariner"
 

@@ -1,7 +1,13 @@
-Reddit
-Dynamaxion
+Reddit Dynamaxion
 
-I have to disagree. I doubt round-up has any affect at all on what insecticides farmer use. Most people don't understand just how problematic pesticides are not just for the environment and farm workers, but our entire society. Did you know that one of the most popular families of pesticides used in conventional agriculture, organophosphates, has been widely implicated in severe developmental neurotoxicity issues in children? As these studies showcase, these pesticides, found in normal amounts in children, not children with high exposure, are implicated in reduced IQ and cognitive abilities:
+I have to disagree. I doubt round-up has any affect at all on what insecticides
+farmer use. Most people don't understand just how problematic pesticides are
+not just for the environment and farm workers, but our entire society. Did
+you know that one of the most popular families of pesticides used in
+conventional agriculture, organophosphates, has been widely implicated
+in severe developmental neurotoxicity issues in children? As these studies
+showcase, these pesticides, found in normal amounts in children, not children
+with high exposure, are implicated in reduced IQ and cognitive abilities:
 
     http://www.ncbi.nlm.nih.gov/pubmed/21507778
     http://www.ncbi.nlm.nih.gov/pubmed/21507776
@@ -10,22 +16,56 @@ I have to disagree. I doubt round-up has any affect at all on what insecticides 
     http://www.ucdmc.ucdavis.edu/publish/news/newsroom/8978
     http://www.ncbi.nlm.nih.gov/pubmed/26057254
 
-And yes, food is a major pesticide source despite what industry might claim: http://www.ncbi.nlm.nih.gov/pubmed/18414640 and http://ehp.niehs.nih.gov/1408197/. Continuing on, the most important enzyme responsible for breaking down these pesticides in the human body is called serum paraoxanase. Some people have a lot of paraoxanase activity and are able to break down the pesticides really fast. Guess which subpopulation scientists are beginning to find has significantly reduced paraoxanase activity? People with autism: http://www.ncbi.nlm.nih.gov/pubmed/16297937 -- and this year a large study found associations between organophosphates and autism: http://www.ucdmc.ucdavis.edu/publish/news/newsroom/8978. More work needs to be done on this front, but the early findings are concerning to say the least.
+And yes, food is a major pesticide source despite what industry
+might claim: http://www.ncbi.nlm.nih.gov/pubmed/18414640 and
+http://ehp.niehs.nih.gov/1408197/. Continuing on, the most important enzyme
+responsible for breaking down these pesticides in the human body is called
+serum paraoxanase. Some people have a lot of paraoxanase activity and are able
+to break down the pesticides really fast. Guess which subpopulation scientists
+are beginning to find has significantly reduced paraoxanase activity? People
+with autism: http://www.ncbi.nlm.nih.gov/pubmed/16297937 -- and this year
+a large study found associations between organophosphates and autism:
+http://www.ucdmc.ucdavis.edu/publish/news/newsroom/8978. More work needs to
+be done on this front, but the early findings are concerning to say the least.
 
-The data against organophosphates continues to pile up and has resulted in the thousands of scientists represented by the Union of Concerned Scientists wanting organophosphates banned. Unfortunately, politics wins at the EPA: http://www.ucsusa.org/our-work/center-science-and-democracy/promoting-scientific-integrity/epa-and-pesticides.html
+The data against organophosphates continues to pile up and has resulted in
+the thousands of scientists represented by the Union of Concerned Scientists
+wanting organophosphates banned. Unfortunately, politics wins at the EPA:
+http://www.ucsusa.org/our-work/center-science-and-democracy/promoting-scientific-integrity/epa-and-pesticides.html
 
-I only spoke of the neurotoxicity issues above. Make no mistake, these pesticides cause harm across a variety of spectrums. Not just on children's nervous systems but everything from gestation duration and birthweight to reduced lung function and lower sperm count in humans to changing the behavior of bugs. Some example studies:
+I only spoke of the neurotoxicity issues above. Make no mistake, these
+pesticides cause harm across a variety of spectrums. Not just on children's
+nervous systems but everything from gestation duration and birthweight
+to reduced lung function and lower sperm count in humans to changing the
+behavior of bugs. Some example studies:
 
     http://ehp.niehs.nih.gov/1104615/
     http://www.ncbi.nlm.nih.gov/pubmed/25413219
     http://news.harvard.edu/gazette/story/2015/03/pesticides-result-in-lower-sperm-counts/
     http://news.berkeley.edu/2015/12/03/breathing-capacity-pesticide-exposure/
 
-Please be sure to also look at the studies showcasing that these products are "safe". I'd suggest starting with Naled, an organophosphate. The 2006 EPA reregistration document is here: http://archive.epa.gov/pesticides/reregistration/web/pdf/naled_red.pdf) and you'll find the list of utilized, "Studies" begins on page 105. You will also find that 98% of those studies are conducted by the chemical manufacturers themselves (in rats and rabbits) and, "Unpublished" meaning they never underwent peer review. Yet when independent scientists conduct studies, they are finding what I posted above, in children.
+Please be sure to also look at the studies showcasing that
+these products are "safe". I'd suggest starting with Naled,
+an organophosphate. The 2006 EPA reregistration document is here:
+http://archive.epa.gov/pesticides/reregistration/web/pdf/naled_red.pdf)
+and you'll find the list of utilized, "Studies" begins on page 105. You
+will also find that 98% of those studies are conducted by the chemical
+manufacturers themselves (in rats and rabbits) and, "Unpublished" meaning
+they never underwent peer review. Yet when independent scientists conduct
+studies, they are finding what I posted above, in children.
 
-As the Union of Concerned Scientists stated in the link I posted above, "Another scientist said that the agency "often ignored independent scientific studies that contradicted the industry-subsidized study." Especially in cases where chemicals' effects on health are poorly understood and studies disagree, said the scientist, the EPA should not automatically side with the pesticide industry. "If there is disagreement, doesn't that cry out for further research?" A report of the EPA Office of the Inspector General also suggested that the EPA had not done enough to protect children from pesticide exposure."
+As the Union of Concerned Scientists stated in the link I posted above,
+"Another scientist said that the agency "often ignored independent scientific
+studies that contradicted the industry-subsidized study." Especially in
+cases where chemicals' effects on health are poorly understood and studies
+disagree, said the scientist, the EPA should not automatically side with the
+pesticide industry. "If there is disagreement, doesn't that cry out for further
+research?" A report of the EPA Office of the Inspector General also suggested
+that the EPA had not done enough to protect children from pesticide exposure."
 
-The Naled reregistration document proves this as, of the 91 cited studies, all but one were conducted by industry and unpublished.
+The Naled reregistration document proves this as, of the 91 cited studies,
+all but one were conducted by industry and unpublished.
 
-Despite countless scientists calling for change, greed and regulatory capture hold the winning hand. And it is the common man who suffers.
+Despite countless scientists calling for change, greed and regulatory capture
+hold the winning hand. And it is the common man who suffers.
 
