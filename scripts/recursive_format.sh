@@ -1,4 +1,5 @@
-# Recursively format all files beneath cwd format_contents(){
+# Recursively format all files beneath cwd 
+format_contents(){
 	while [ "$1" ]; do
 		if [ -d "$1" ]; then
 			format_contents "$1"/*
