@@ -1,11 +1,5 @@
-Alaska - James Michener 
-Space  - James Michener
-Cloud Atlas - David Mitchell
-Sherlock Holmes - Sir Authur Connan Doyle
-Isebella; or the Pot - John Keats
-Dorian Gray - Oscar Wilde
-The Time Traveler - H.G. Wells
-The Walk - Stephen King
-Lost Horizon - James Hilton
-The Bible
+Alaska - James Michener Space  - James Michener Cloud Atlas - David Mitchell
+Sherlock Holmes - Sir Authur Connan Doyle Isebella; or the Pot - John Keats
+Dorian Gray - Oscar Wilde The Time Traveler - H.G. Wells The Walk - Stephen
+King Lost Horizon - James Hilton The Bible
 

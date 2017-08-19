@@ -1,53 +1,38 @@
-Acrimoniously: Angry or bitter.
-Affable:       Friendly, good natured.
-Candor:        Open, honest.
-Convolvulus:   A plant with a funnel shaped flower.
-Coy:           Reluctant to give details; a pretense of shyness.
-Crepuscular:   Describing an animal active at night.
-Egregious:     Very bad.
-Egress:        The action of going out or leaving a place.
-Elucidate:     To make clear.
-Equanimity:    Mental calmness. Evenness of temper in a difficult situation.
-Erudition:     The quality of showing great knowledge of learning.
-Fastidious:    Attentive and concerned about accuracy.
-Fulminate:     Express vehement protest.
-Gavotte:       A specific rhythm in classical music.
-Glower:        An angry or sullen look.
-Grouse:        To complain pettily; grumble.
-Guileless:     Non-deceptive, open, honest.
-Guile:         Sly, cunning.
-Incorrigible:  Not able to be corrected or improved. (Of a person's tendencies)
-Inculcate:     Instill an idea by persistent instruction.
-Incurious:     A person or their manner not eafer to know something.
-Interlucent:   Sining or flowing in the midst of other things.
-Intonation:    The rise and fall of the voice
-Inveigh:       Speak or write about something with great hostility.
-Jocular:       Humorous or playful.
+Acrimoniously: Angry or bitter.  Affable:       Friendly, good natured.
+Candor:        Open, honest.  Convolvulus:   A plant with a funnel
+shaped flower.  Coy:           Reluctant to give details; a pretense of
+shyness.  Crepuscular:   Describing an animal active at night.  Egregious:
+Very bad.  Egress:        The action of going out or leaving a place.
+Elucidate:     To make clear.  Equanimity:    Mental calmness. Evenness of
+temper in a difficult situation.  Erudition:     The quality of showing great
+knowledge of learning.  Fastidious:    Attentive and concerned about accuracy.
+Fulminate:     Express vehement protest.  Gavotte:       A specific rhythm in
+classical music.  Glower:        An angry or sullen look.  Grouse:        To
+complain pettily; grumble.  Guileless:     Non-deceptive, open, honest.
+Guile:         Sly, cunning.  Incorrigible:  Not able to be corrected
+or improved. (Of a person's tendencies) Inculcate:     Instill an idea by
+persistent instruction.  Incurious:     A person or their manner not eafer to
+know something.  Interlucent:   Sining or flowing in the midst of other things.
+Intonation:    The rise and fall of the voice Inveigh:       Speak or write
+about something with great hostility.  Jocular:       Humorous or playful.
 Laconic:       Using very few words. (Of a person, speech, style of writing)
-Lilt:          A rising and falling in voice; A pleasant accent.
-Locution:      A particular form of expression. A style of discourse.
-Mellifluous:   Sweet or musical; pleasant to hear. (Of voice or words)
-Multifarious:  Many and of various types.
-Obeisance:     A movement of the mody made in respect/submission.
-Palimpsest:    A defaced manuscript where traces of the original remain.
-Perfidy:       Decietfulness. Untrustworthyness
-Pernicious:    Harmful in a gradual or subtle way.
-Pervarication: Noun of prevaricate. To speak of act in an evasive way.
-Pliant:        Bending readily, flexible, supple.
-Poffered:      To hold out something to someone for acceptance.
-Poly Glot:     Knowing or using several languages
-Precinct:      An area for restricted use. E.g: A predestrian precinct.
-Prevenient:    Preceding in time or order.
-Proclivity:    A tendency to do something regularly.
-Pulmonary:     Relating to the lungs.
-Recondite:     Little known, abtruse.
-Reflugent:     Bright.
-Servile:       Excessive willingness to please
-Suave:         Charming, confident, elegant.
-Suavity:       The quality of being suave in manner.
-Vacillating:   Altering or wavering. Being indecisive.
-Vehement:      Showing strong feeling. Forceful, passonate, intense.
-Venerate:      Regard with great respect.
-Vicissitudes:  A change in circumstance or fortune. Typically unpleasant.
-Virile:        Having strength and energy
+Lilt:          A rising and falling in voice; A pleasant accent.  Locution:
+A particular form of expression. A style of discourse.  Mellifluous:
+Sweet or musical; pleasant to hear. (Of voice or words) Multifarious:
+Many and of various types.  Obeisance:     A movement of the mody made in
+respect/submission.  Palimpsest:    A defaced manuscript where traces of the
+original remain.  Perfidy:       Decietfulness. Untrustworthyness Pernicious:
+Harmful in a gradual or subtle way.  Pervarication: Noun of prevaricate. To
+speak of act in an evasive way.  Pliant:        Bending readily, flexible,
+supple.  Poffered:      To hold out something to someone for acceptance.
+Poly Glot:     Knowing or using several languages Precinct:      An area
+for restricted use. E.g: A predestrian precinct.  Prevenient:    Preceding
+in time or order.  Proclivity:    A tendency to do something regularly.
+Pulmonary:     Relating to the lungs.  Recondite:     Little known, abtruse.
+Reflugent:     Bright.  Servile:       Excessive willingness to please
+Suave:         Charming, confident, elegant.  Suavity:       The quality of
+being suave in manner.  Vacillating:   Altering or wavering. Being indecisive.
+Vehement:      Showing strong feeling. Forceful, passonate, intense.  Venerate:
+Regard with great respect.  Vicissitudes:  A change in circumstance or
+fortune. Typically unpleasant.  Virile:        Having strength and energy
 Vying:         Competing.
