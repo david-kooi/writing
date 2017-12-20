@@ -1,0 +1,42 @@
+After highscool David spend four years at Cuesta College in San Luis Obispo
+before deciding to pursue Computer Engineering. During that time David took
+classes in mobile and web development and simple industrial control.
+
+David first realized he liked software when he created a motion detection
+application for an Android phone. David only had a basic C class before hand,
+but with the encouragment of the instructor he jumped into the sea of the
+Android SDK. At the end of the course he had a "Wow" realization that engineers
+do cool stuff.
+
+During my last two years at Cuesta I receieved an internship at NASA JPL and
+worked on a model based flight software system. This introduced me to git,
+softare patterns, shell applications, build systems, autocoders, software
+testing, application and systems development, event driven software,
+multithreaded programming, real time graphical visialization, and CCSDS file
+uplink and downlink.
+
+While the technical learning experiance was incredible  the best experiance in
+his mind was participating in the technical meetings. Being on the periphery of
+such high functioning individuals became a large motivation to build a solid
+technical foundation.
+
+David transfered into UC Santa Cruz in the Fall of 2016.
+
+During the Summer of 2017 David was asked to return to NASA JPL. He was tasked
+to re-develop the flight software framework's ground control system server.
+Python ZeroMQ middleware technology was used to support dynamic, many-many,
+ground to satellite communications with plugable packet protocol translation.
+David also developed a C++ ‘ZmqRadio’ component that enables robust
+communication between embedded systems and the new server.
+
+David was initiated into Tau Beta Pi in the Fall of 2017.
+
+He completed CMPE 118, Mechatronics in the Fall of 2017. During the final
+project his teammates introduced him to motion profiling and the discrete
+derivative. Motion profiling was used to perform smooth and predictable
+manuvers. The discrete derivative was used to locate the peak of a signal.
+While these tools are not ground breaking in themselves, but David thinks their
+introduction is highly motivating. 
+
+His future interests are robotic systems and control. He intends to continue
+studying computer engineering in UC Santa Cruz for graduate school.
