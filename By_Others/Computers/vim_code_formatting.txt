@@ -1,0 +1,21 @@
+Vim Code Formatting
+https://stackoverflow.com/questions/2506776/is-it-possible-to-format-c-code-with-vim
+
+While vim is a true Swiss-knife I still prefer external tools for some jobs.
+This approach is some times much more intuitive and easy to remember than using
+the built-in equivalent.
+
+In the case of indenting, I filter the whole file buffer through astyle. The
+astyle parameters are much easier to grasp in a couple of minutes, especially
+if you are not a vim guru. Also astyle provides much more flexibility in
+fine-tuning the output.
+
+First install astyle: # apt-get install astyle
+
+Then inside vim: :%!astyle (simple case - astyle default mode is C/C++) or
+
+:%!astyle --mode=c --style=ansi -s2 (ansi C++ style, use two spaces per indent level) or 
+
+:1,40!astyle --mode=c --style=ansi (ansi C++ style, filter only lines
+1-40)
+
