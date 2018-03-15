@@ -1,0 +1,23 @@
+https://www.bibsonomy.org/bibtexkey/citeulike:305879/yish
+
+Christopher Alexander
+
+"Every creative act relies on language. It is not only those creative acts
+which are part of a traditional society which rely on language: all creative
+acts rely on pattern languages: the fumbling inexperienced constructions of
+a novice are made within the language which he has. The works of
+idiosyncratic genius are also created within some part of language too. And
+the most ordinary roads and bridges are all built within a language too....
+
+In order to make patterns explicit, so that they can be shared in this new
+way, we must first of all review the very complex structure of a pattern....
+
+As an element in the world, each pattern is a relationship between a certain
+context, a certain system of forces which occurs repeatedly in that context,
+and a certain spatial configuration which allows these forces to resolve
+themselves. ...
+
+As an element of language, a pattern is an instruction, which shows how this
+spatial configuration can be used, over and over again, to resolve the given
+system of forces, wherever the context makes it relevant." (Alexander et al.
+1977)
