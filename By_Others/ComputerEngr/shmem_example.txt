@@ -1,0 +1,44 @@
+#include <sys/stat.h>
+#include <errno.h>
+#include <stdio.h>
+#include <sys/shm.h>
+#include <string.h>
+
+#define KEYVALUE 1000 //arbitrary value ... just needs to be shared between your processes
+
+int main(){
+
+    int file_size = 1024;
+
+    //try to create the shared memory object
+    int shared_mem_id;
+    void* shared_mem_ptr = NULL;
+
+    if ( (shared_mem_id = shmget(KEYVALUE, file_size, S_IRUSR | S_IWUSR | IPC_CREAT | IPC_EXCL)) == -1)
+    {
+        if (errno == EEXIST)
+        {
+            printf("Memory Exists!\n");
+            //shared memory segment was already created, so just get its ID value
+            shared_mem_id = shmget(KEYVALUE, file_size, S_IRUSR | S_IWUSR);
+            shared_mem_ptr = shmat(shared_mem_id, NULL, 0);
+            printf((char*)shared_mem_ptr);
+
+            shmctl(shared_mem_id, IPC_RMID, NULL);
+        }
+        else
+        {
+            perror("Unable to create shared memory object");
+            exit(1);
+        }
+    }
+    else
+    {
+        printf("Memory Created\n");
+        shared_mem_ptr = shmat(shared_mem_id, NULL, 0);
+        strcpy((char*)shared_mem_ptr, "Hello World\n");
+
+
+    }
+
+}
