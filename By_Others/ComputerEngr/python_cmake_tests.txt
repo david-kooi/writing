@@ -1,0 +1,8 @@
+Running a python test in CMake
+
+find_package(PythonInterp REQUIRED)
+add_test(NAME some_test
+  COMMAND ${PYTHON_EXECUTABLE}
+    ${CMAKE_CURRENT_BINARY_DIR}/run_test.py
+    some_test)
+
