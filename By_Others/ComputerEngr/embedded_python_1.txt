@@ -1,0 +1,63 @@
+
+CMakeLists
+See: https://cmake.org/cmake/help/v3.0/module/FindPythonLibs.html
+''''''''''
+find_package(PythonLibs 2.7 REQUIRED) 
+find_package(PythonInterp 2.7 REQUIRED)
+
+if(${PYTHONLIBS_FOUND} STREQUAL "TRUE")
+
+	message("Python Libraries Found")
+	message(${PYTHON_LIBRARY})
+    
+	include_directories(${PYTHON_INCLUDE_DIRS})
+	add_executable(...)
+	target_link_libraries(... ${PYTHON_LIBRARY})
+
+endif()
+	
+	
+
+C File
+''''''
+
+PyObject     *file         = NULL;
+PyObject     *segment_dict = NULL;
+
+Py_Initialize();
+
+PyRun_SimpleString(
+	   "import sys\n"
+	   "sys.path.append('...')\n"
+	   "from ... import Segment\n"
+	);
+
+
+/*Load pickled segment dictionary*/
+PyObject *pickle = PyImport_ImportModule("pickle");//import pickle
+// Failed to import...decrement object reference and fail
+if(!pickle){
+	Py_XDECREF(pickle);
+	Py_XDECREF(file); 
+	UTH_EXPECT_TRUE(FALSE);
+	return;
+}
+
+
+file = PyFile_FromString(segment_desc_pkl_filename, "r");//open(...)
+if(file == NULL){
+	Py_XDECREF(pickle);
+	Py_XDECREF(file); 
+	UTH_EXPECT_TRUE(FALSE);
+	return;
+}
+
+														 //pickle.load(file)
+segment_dict = PyObject_CallMethod(pickle, "load", "O", file);  
+if(segment_dict == NULL){
+	Py_XDECREF(segment_dict);
+	Py_XDECREF(pickle);
+	Py_XDECREF(file); 
+	UTH_EXPECT_TRUE(FALSE);
+}
+
