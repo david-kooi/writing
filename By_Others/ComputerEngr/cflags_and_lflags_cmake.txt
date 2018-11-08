@@ -1,0 +1,2 @@
+add_library(mylib SHARED my_source.c)
+set_target_properties(mylib PROPERTIES COMPILE_FLAGS "-m32" LINK_FLAGS "-m32")
