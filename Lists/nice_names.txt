@@ -2,9 +2,9 @@ Apphia
 Caspian 
 Daphne 
 Else
-Ionna 
-Nyquist
-Susan
-Priora
+Galen
 Galina
-Vega
+Ionna 
+Priora
+Susan
+Willem
