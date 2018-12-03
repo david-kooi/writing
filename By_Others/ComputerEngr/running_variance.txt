@@ -1,0 +1,12 @@
+Initialize M1 = x1 and S1 = 0.
+
+For subsequent x‘s, use the recurrence formulas
+
+Mk = Mk-1+ (xk – Mk-1)/k
+Sk = Sk-1 + (xk – Mk-1)*(xk – Mk).
+
+For 2 ≤ k ≤ n, the kth estimate of the variance is s2 = Sk/(k – 1).
+
+From: https://www.johndcook.com/blog/standard_deviation/
+From: Donald Knuth’s Art of Computer Programming, Vol 2, 
+      page 232, 3rd edition 

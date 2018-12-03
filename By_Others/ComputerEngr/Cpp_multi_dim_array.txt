@@ -1,0 +1,8 @@
+
+// Better to allocate one block for a multidimensional
+// array
+
+int *ary = new int[sizeX*sizeY];
+
+// ary[i][j] is then rewritten as
+ary[i*sizeY+j]
