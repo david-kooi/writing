@@ -1,0 +1,14 @@
+https://jrs-s.net/2017/12/05/boot-rescue-for-galliumos-chrx-on-chromebooks/
+
+mkdir /tmp/a
+
+mount /dev/mmcblk0p7        /tmp/a
+mount -o bind /proc    /tmp/a/proc
+mount -o bind /dev     /tmp/a/dev
+mount -o bind /dev/pts /tmp/a/dev/pts
+mount -o bind /sys     /tmp/a/sys
+mount -o bind /run     /tmp/a/run
+
+chroot /tmp/a /bin/bash
+
+dpkg-reconfigure grub-pc
