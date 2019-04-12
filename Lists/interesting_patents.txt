@@ -1,0 +1,18 @@
+Noise cancellation for aerial vehicle(Go-Pro) 
+May 29, 2018
+Patent #: 9,984,672
+Abstract: 
+
+A noise cancellation system for an unmanned aerial vehicle may have
+an audio capture module, a metadata module and a filter. The audio capture
+module may be configured to receive an audio signal captured from a microphone,
+e.g., on a camera. The metadata module may be configured to retrieve noise
+information associated with noise generating components operating on the
+unmanned aerial vehicle (UAV). The filter may be configured to receive the
+audio signal and noise information from the audio capture module. The filter
+also may be configured to retrieve a baseline profile from a database based on
+the noise information. The baseline profile includes noise parameter to filter
+out audio frequencies from the audio signal corresponding to the noise
+generating component. The filter may generate a filtered audio signal for
+output.
+

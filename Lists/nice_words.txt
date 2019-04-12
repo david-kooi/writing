@@ -1,25 +1,33 @@
+Abeyance:      A state of temporary disuse or suspension.
+Abjure:        To renounce upon oath.
+Abrogate:      To abolish by authoritative action.
 Acrimoniously: Angry or bitter.  
 Affable:       Friendly, good natured.
-Ascetic:       The pursuit of contemplative ideals and practices of self 
-			   denial
+Ascetic:       The pursuit of contemplative ideals and practices of self denial
+Aspersion:     A false, misleading charge meant to damange one's reputation.
 Avarice:       Extreme greed for wealth or material gain.
 Aver:		   To state or assert to be the case.
+Bilious:       Affected or associated with nausea; spiteful, bad tempered.
 Candor:        Open, honest.  
+Caprice:       An impulsive, unmotivated action; A disposition to do things impulsively.
 Clairvoyant:   To see/perceive the future beyond ordinary senses.
 Connivance:    Willingness to secretly allow an immoral or illegal act.
 Convolvulus:   A plant with a funnel shaped flower.  
 Coy:           Reluctant to give details; a pretense of shyness.  
 Crepuscular:   Describing an animal active at night.  
 Didactic:      Intended to teach. Particularly moral instructions.
+Discursive:    Digressing from subject to subject.
 Dissolute:     Lax in morals.
+Effuse:        To give off. "Uitstralen"
 Egregious:	   Very bad.  
 Egress:        The action of going out or leaving a place.
+Elocution:     The art of public speaking.
 Elucidate:     To make clear.  
 Equanimity:    Mental calmness. Evenness of temper in a difficult situation.  
 Erudition:     The quality of showing great knowledge of learning.  
+Farcical:      Relating to a farce. Laughably inept.
 Fastidious:    Attentive and concerned about accuracy.
-Felicity:      Intense happiness. The ability to find an appropriate 
-			   expression for one's thoughts.
+Felicity:      Intense happiness. The ability to find an appropriate expression for one's thoughts.
 Fidelity:      Loyalty. Accuracy of which images/audio is recorded.
 Fulminate:     Express vehement protest.  
 Gavotte:       A specific rhythm in classical music.  
@@ -27,11 +35,16 @@ Glower:        An angry or sullen look.
 Grouse:        To complain pettily; grumble.  
 Guileless:     Non-deceptive, open, honest.
 Guile:         Sly, cunning.  
+Gumption:      Shrewd of spirited initiative and resourcefulness.
 Illimitably:   Incapable of being limited.
-Incorrigible:  Not able to be corrected or improved. 
-			   (Of a person's tendencies) 
+Impertinent:   Not showing proper respect.
+Impugn:        Dispute the truth of a statement.
+Imputation:    To lay the responsibility of blame falsely.
+Incorrigible:  Not able to be corrected or improved. (Of a person's tendencies) 
 Inculcate:     Instill an idea by persistent instruction.  
 Incurious:     A person or their manner not eafer to know something.  
+Ineffable:     Incapable of being expressing in word or feeling; not to be uttered.
+Interlocutor:  A person who takes part in a conversation.
 Interlucent:   Shining or flowing in the midst of other things.
 Intonation:    The rise and fall of the voice 
 Inveigh:       Speak or write about something with great hostility.  
@@ -42,42 +55,58 @@ Licentious:    Disregard of accepted rules or conventions.
 Lilt:          A rising and falling in voice; A pleasant accent.  
 Locution:      A particular form of expression. A style of discourse.  
 Mellifluous:   Sweet or musical; pleasant to hear. (Of voice or words) 
+Mendacity:     A lie.
 Multifarious:  Many and of various types.  
 Obeisance:     A movement of the mody made in respect/submission.  
 Obstinacy:     Quality or condition of being stubborn.
 Obtruded:      To become noticeable in an unacceptable way.
+Obviate:       To anticipate and prevent.
 Opprobrious:   Language expressing scorn or criticism.
+Ossify:        To change into bone; To become hardened and opposed to change. 
 Palatial:      Resembling a palace.
 Palimpsest:    A defaced manuscript where traces of the original remain.  
 Penitent:      Feeling sorrow for having done something wrong. 
+Peremptory:    Putting and end to or precluding a right of action.
 Perfidy:       Decietfulness. Untrustworthyness 
 Pernicious:    Harmful in a gradual or subtle way.  
 Pervarication: Noun of prevaricate. To speak of act in an evasive way.  
+Petulent:      Childish and sulky.
 Piquant:       A pleasing sharp taste.
 Pliant:        Bending readily, flexible, supple.  
 Poffered:      To hold out something to someone for acceptance.
 Poly Glot:     Knowing or using several languages 
 Precinct:      An area for restricted use. E.g: A predestrian precinct.  
+Preclude:      Rule out in advance; To make impossible by nessecary consequence. 
 Preponderance: A quality of fact great in number.
 Prevenient:    Preceding in time or order.  
 Proclivity:    A tendency to do something regularly.
 Profligate:    Recklessly extravagant or wasteful.
 Progenitor:    Person, place, or thing from which something originates.
 Pulmonary:     Relating to the lungs.  
+Putative:      Commonly accepted.
 Quiescence:    In a state of quietness or inactivity.
+Quotidian:     Occuring every day.
 Recondite:     Little known, abtruse.
 Reflugent:     Bright.  
 Repartee:      A conversation characterized with quick witty replies.
+Repuditate:    Refuse to accept or be associated with.
+Salutary:      Producing benificial effect; remedial.
 Sententiously: Describing excessive moralizing.
 Servile:       Excessive willingness to please
+Stupent:       Confused, bewildered.
 Suave:         Charming, confident, elegant.  
 Suavity:       The quality of being suave in manner.  
 Sumptuous:     Splendid and expensive looking.
+Trammel:       To catch of hold as in a net.
 Transigence:   Willingness to compromise.
+Vacillate:     To waver in mind, will, or feeling.
 Vacillating:   Altering or wavering. Being indecisive.
 Vehement:      Showing strong feeling. Forceful, passonate, intense.  
 Venerate:      Regard with great respect.  
 Veracity:      Conforming to facts.
+Verity:        A true principle of fundemental importance.
+Vespertine:    Relating to, active in the evening.
+Viand:         A piece of food.
 Vicissitudes:  A change in circumstance or fortune. Typically unpleasant.  
 Virile:        Having strength and energy
 Vying:         Competing.
