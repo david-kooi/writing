@@ -1,0 +1,6 @@
+Notes on Functionals
+Svetitsky
+http://julian.tau.ac.il/bqs/functionals/functionals.html
+
+Notes
+http://bjlkeng.github.io/posts/the-calculus-of-variations/
