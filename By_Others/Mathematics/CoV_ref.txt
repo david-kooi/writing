@@ -4,3 +4,12 @@ http://julian.tau.ac.il/bqs/functionals/functionals.html
 
 Notes
 http://bjlkeng.github.io/posts/the-calculus-of-variations/
+
+Gradient Descent and Euler-Lagrange
+https://math.stackexchange.com/questions/29703/euler-lagrange-gradient-descent-heat-equation-and-image-denoising
+
+Implementation of Gradient Descent
+http://giana.mmci.uni-saarland.de/website-template/lectures/ComputationalImaging/2013/fvia_ws_2011_02_gradient_descent.pdf
+
+Inpainting Using Convex Optimization
+https://www.cvxpy.org/examples/applications/tv_inpainting.html
