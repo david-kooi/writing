@@ -31,3 +31,7 @@ Uber vs 'Lyft
 - Using "zombie" driver to take away competition
 
 How do we learn people's utility functions?
+
+Since we all use google for searching...can we trust epistomology?
+
+
