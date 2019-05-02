@@ -1,0 +1,28 @@
+5/2/19
+
+Requirement Elicitation and Formalization and Automating the Connection with
+Analysis Tools
+
+Lockheed Challenges
+- From written requirements to verification monitors 
+
+Written requirements to verification blocks?
+
+"Exceeding sensor limits shall latch an autopolot pullup when the pilot is not
+in control and the system is supported without failures." 
+
+How to understand the formal temporal properties?
+There are atomic propositions in written specificaiton
+
+CoCoSim: Automated analysis and code generation
+
+"Component" in Simulink model?j
+
+*How to verify Consistency and realizability of requirements?
+*How to find counter example? K-Induction
+*How to automate requirment relaxation?
+
+
+
+
+Model Based Design -> AutoCoded Software Stucture
