@@ -1,0 +1,37 @@
+Digital Transformation of Societal Systems
+Shankar Sastry
+4/26/19
+
+Cost of computing - Down
+Spending on IOT - Up
+
+Electric power grid is most significant invention (NAW)
+
+Income level can be infered by energy usage.
+
+Privacy as "utility"
+What is the cost on privacy?
+
+"Utility based privacy"
+
+Can you have privacy contracts priced differently?
+- Societal "nash equilibrium" is bad
+- Big companies can pay for high privacy 
+- Privacy pricing is regressive
+    - Regulation to counter the offset?
+
+
+- Are humans utility maximizers?
+
+- What is digital transformation
+    - Intersection of ML, IoT, Cloud Computing, Data Analytics 
+- "Price of anarchy"
+
+Uber vs 'Lyft
+- Using "zombie" driver to take away competition
+
+How do we learn people's utility functions?
+
+Since we all use google for searching...can we trust epistomology?
+
+
