@@ -1,0 +1,7 @@
+When trying to de-referencing a NULL pointer.
+    
+Trying to access memory which is already de-allocated (trying to use dangling pointers).
+
+Using uninitialized pointer(wild pointer).
+
+Trying to access memory that the program doesn’t own (eg. trying to access an array element out of array bounds).
