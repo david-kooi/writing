@@ -15,6 +15,7 @@ Connivance:    Willingness to secretly allow an immoral or illegal act.
 Convolvulus:   A plant with a funnel shaped flower.  
 Coy:           Reluctant to give details; a pretense of shyness.  
 Crepuscular:   Describing an animal active at night.  
+Deleterious:   Causing harm or damage
 Didactic:      Intended to teach. Particularly moral instructions.
 Discursive:    Digressing from subject to subject.
 Dissolute:     Lax in morals.
@@ -110,3 +111,4 @@ Viand:         A piece of food.
 Vicissitudes:  A change in circumstance or fortune. Typically unpleasant.  
 Virile:        Having strength and energy
 Vying:         Competing.
+
