@@ -18,7 +18,19 @@ CoCoSim: Automated analysis and code generation
 
 "Component" in Simulink model?j
 
+Projects: 
+
 *How to verify Consistency and realizability of requirements?
+- Integration w/ Nice tool...
+- Translate LTL to tool
+- Fit Nice tool to solver and present to user
+
+*See how to extend Fretish to STL
+- Write real value propositions for Fretish
+
+
+
+
 *How to find counter example? K-Induction
 *How to automate requirment relaxation?
 
