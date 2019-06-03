@@ -1,0 +1,33 @@
+Operations and Planning Research Areas
+- Transmission Operations
+- Bulk System DER Integration
+- Transmission Planning
+- DER Operations and planning
+
+Evolution of Power System
+- Penetration of DER
+- Emerging technologies
+- Interdependence with gas sector
+- Electricity as energy carrier for transport
+
+Need to adapt existing market, operating, planning mechanisms 
+
+*DER is stochastic
+
+50% in California?
+
+- Day Ahead Schedule
+    - What generating units should be turned on?
+    - Based on forecast
+- Real Time Schedule
+    - 25% reliance on real-time changes
+
+How to solve?
+- Stochastic Control & Optimization
+- Interval Optimization
+- Robust Optimization
+- Dynamic Reserves
+
+
+
+
