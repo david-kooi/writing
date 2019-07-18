@@ -2,12 +2,14 @@
 ""
 " BEGIN USER SPACE
 
+
  " Set 4 space indent
 
  filetype plugin indent on
 
  " show existing tab with 4 spaces width
  set tabstop=4
+ set textwidth=76
 
  " when indenting with '>', use 4 spaces width
  set shiftwidth=4
@@ -16,7 +18,7 @@
  set expandtab
 
  " Set split remaps
- nnoremap <C-J> <C-W><C-J>
+ nnoremap <C-B> <C-W><C-J>
  nnoremap <C-K> <C-W><C-K>
  nnoremap <C-L> <C-W><C-L>
  nnoremap <C-H> <C-W><C-H>
@@ -36,14 +38,38 @@
 
  syntax on
 
- " END USER SPACE
- """
- ""
- 
- "
- ""
- """
- " VUNDLE SPACE
+" END USER SPACE
+"""
+""
+"
+
+"
+""
+""" VIM-LATEX Space
+
+" REQUIRED. This makes vim invoke Latex-Suite when you open a tex file.
+filetype plugin on
+
+
+" OPTIONAL: This enables automatic indentation as you type.
+filetype indent on
+
+" OPTIONAL: Starting with Vim 7, the filetype of empty .tex files defaults to
+" 'plaintex' instead of 'tex', which results in vim-latex not being loaded.
+" The following changes the default filetype back to 'tex':
+let g:tex_flavor='latex'
+
+
+"""
+""
+" VIM-LATEX Space
+
+
+
+"
+""
+"""
+" VUNDLE SPACE
  
  set nocompatible              " be iMproved, required
  filetype off                  " required
@@ -65,6 +91,13 @@
  " " Show just the filename
  let g:airline#extensions#tabline#fnamemod = ':t'
 
+ "VIM-LATEX STUFF
+ Plugin 'file:///home/david/api/vim-latex-1.10.0'
+ Plugin 'xuhdev/vim-latex-live-preview'
+ set updatetime=500
+ command StartLatex LLPStartPreview
+
+
 
 " This allows buffers to be hidden if you've modified a buffer.
 " This is almost a must if you wish to use buffers in this way.
@@ -84,32 +117,23 @@ nmap <leader>bq :bp <BAR> bd #<CR>
 " Show all open buffers and their status
 nmap <leader>bl :ls<CR>
 
-
-
-
  
  " NERD TREE STUFF
  Plugin 'scrooloose/nerdtree'
  map <C-o> :NERDTreeToggle<CR>
  let NERDTreeQuitOnOpen=1
 
- " CTRLP Stuff
+ " CTRLP STUFF
  Plugin 'kien/ctrlp.vim'
 
-
-
-
+ " VIMPROC STUFF
+ Plugin 'Shougo/vimproc.vim'
 
  " All of your Plugins must be added before the following line
  call vundle#end()            " required
  filetype plugin indent on    " required
  
- " END VUNDLE SPACE
- """
- ""
- "
-
-
-
-
-
+" END VUNDLE SPACE
+"""
+""
+"
