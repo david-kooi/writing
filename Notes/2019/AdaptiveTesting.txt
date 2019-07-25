@@ -1,0 +1,35 @@
+Stanford Intelligent Systems Lab
+
+- Most likely failure
+- Modes
+- Probability
+
+In-Situ testing is not feasible
+Use simulations to test
+    - Tradeoff beween fidelity and tractability
+
+How to make simnulation tractable?
+    - How can you test low probability situations
+Approximate search to find situations that lead to failure.
+
+Adaptive Stress Testing
+    - Probabalistic envirionment
+    - Reinforcement learning to maximize failure of system
+        - Reward high probabibility actions  
+
+Paper: ACAS X
+    - Find most probable edge case situations 
+
+Categorization with Temporal Logic
+    - Temporal logic decision trees to evaluate the time series 
+    - STL because it handles time traces
+    - 
+
+-> Interperable Categorization of Heterogenous Time Series Data 
+
+
+*How to find sufficient temporal logic expressions that cause failure?
+
+
+
+
