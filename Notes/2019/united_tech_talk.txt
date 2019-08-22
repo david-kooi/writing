@@ -1,0 +1,83 @@
+8/20/19
+
+Importance of formal methods
+
+50% of issues are requirements issues
+    - Misinterpretation of requirements
+    - Unclear requirements
+    - Ambiguous requirements
+    - Requirements are a quality driver
+    - How are requirements captured?
+        - Usually in text
+        - Trying to push model based requirements
+
+60-70% of software development cost is in verification
+    - Cost can be lowered by automated test generation and
+        more strict workflow
+
+
+*Definition of Methodology is important for reproducability*
+
+Fly-By-Wire requires highly reliable and redundant electronics
+
+
+Property into sub-properties
+
+Formal methods for robot-human collaboration?
+
+
+Boeing MCAS:
+    - Wanted to have a derivative change between aircraft behavior
+    - Lower cost of certifying system anew 
+
+
+Automatic Test Generation and Applications of Hybrid Systems 
+Verification Techniques
+
+ATG - Automatic Test Generation
+
+High Level Requirements to Low Level Requirements
+HLR -> Develop LLR -> Design LLR Test Cases -> Development -> Create Tests
+
+Automatic Test Generation
+    - Produce requirements based tests
+
+Testing:
+    - How much is observable, controllable?
+    - Assign inputs and assure combination of inputs is sufficient
+      to test component internals
+    - How to minimize # of tests required for confidence?
+    - How to sequence tests to minimize time of testing?
+
+From requirements to testing:
+    - Generate cases where pre-condition is true
+    - Test post-condition 
+
+
+STL -> Simulink Spec Model
+    - Done by hand
+
+Requirements Defined in "Control Natural Language"
+
+
+Hybrid Systems
+
+Ideal Analysis:
+    - Compute reachability set
+
+Alternativly: 
+    - Compute "meaningful" part of reachability set
+    - Find the regions in state space where preconditions of requirements are met 
+    - Use falsification to find inputs that lead you to a certain region
+
+Hybrid Verification
+    - Semi-decidable
+    - Lack of standards
+    - Lookup tables for hybrid systems?
+
+Requirements ought to be complete: Deterministic and Consistent
+
+
+
+
+
