@@ -1,0 +1,8 @@
+Find and remove brackets around string
+
+s/ \\vec.(?<={)(.*?)(?=})./$1/g
+$1 for first group 
+
+\vec{test} -> test
+
+
