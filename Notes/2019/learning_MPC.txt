@@ -1,0 +1,55 @@
+Learning and Forcasting in Autonomous Systems
+Professor Borreli
+
+Self driving car investment: 120 billion
+Importance of constraints, prediction, and learning
+
+Conference: Learning for Dynamics and Control (L4DC)
+
+Constraint satisfaction is important
+
+Predictive control: Theory, Computation, Practice
+
+HJB Toolbox: A Toolbox for Level Set Methods
+
+Offline methods: Difficult for more than 5 states
+Online methods:  Compute optimization in real-time 
+    * Tesla Autopilot uses a quadratic program 
+    * SpaceX uses convex optimization 
+        Mattingly and ...
+
+    * If convex can do real-time 
+
+
+1. Skill Acquisition: Learning
+    - Learn from demonstration
+2. Performance Improvement: Iterative Learning
+    - Control: Assume a control invariant set 
+    - Reinforcment learning: Sub-optimal solutions
+3. Reduce Computational Load: Learning to memorization
+    - Looktable geneartion
+
+
+Iterative Learning Model Predictive Control
+
+Barycentric Approximation
+
+** If you have good model you can reduce sample time 
+   How can you use dynamics to do this?
+    
+
+References: 
+Bertsekas MPC 
+
+Forward Value Iteration
+
+Vocabulary
+Old: System ID, Adaptive
+New: Training, learning, 
+
+New: Use data to compute Lyapunov functions
+
+
+
+
+
