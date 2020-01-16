@@ -1,0 +1,25 @@
+Real-time interpolation of data
+Real-time linux
+C, C++ multi-threading in robotics applications
+
+Real-time temporal logic monitoring instrument
+
+MPC for control
+Linear Time Varyng MPC
+    - For non-linear systems
+    - Balancing robot?
+
+Hiearchial Control
+    - Point-mass at planning level
+
+Low Complexity MPC Schemes for Integrated VehicleDynamics Control Problems
+Falcone 
+    - Convex QP
+
+Real-time optimization
+    - Real-time optimal control using FPrime??
+
+Comparison between:
+    - FPrime
+    - RTLinux
+    - ROS

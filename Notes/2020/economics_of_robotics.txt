@@ -1,0 +1,22 @@
+What jobs can/should robots do?
+
+Robot research needs to reach the real-world
+    - Commercialization of innovation
+
+Companies:
+Aurora, Apex AI, Faraday, Zoox, Nuro,
+Cruise, Quiet Logistics, Ubuiquity Robotics,
+Automata Robotics, Sake Robotic Grippers
+
+Where is the investment going?
+
+Low Hanging Fruit:
+- Improvement in existing processes
+
+Robot Ethics:
+No: Spam, smog, stereotyping, manipulation
+Yes: Safe, Law abiding, reliable, identifiable
+
+
+
+
