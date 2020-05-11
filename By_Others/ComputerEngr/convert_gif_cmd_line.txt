@@ -1,0 +1,4 @@
+convert -delay 20 -loop 0 $(ls -1 *.png | sort -V) potential.gif
+
+ffmpeg -f gif -i infile.gif outfile.mp4
+

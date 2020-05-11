@@ -1,0 +1,69 @@
+Advanced autonomy in unstructured environments
+Erkan Kayacan
+* See his papers for MPC, Learning, 
+* Theoretical, practical
+
+
+- Real robots: 
+   TerraSentia
+   Terra Map
+   Earth Sense 
+    
+Requirements for Field Robots
+    1. Control and dynamics
+        - There is uncertainty...
+    2. "Mind" - Machine learning
+        - For handling uncertainty
+
+Robotic Problem: Cost
+    - Need efficient computing platform to reduce
+     CPU needs
+
+** Fast learning for parameter learning
+
+Robotic Motivation: Selective breeding for crops
+    - How to breed crops fo better yields?
+    - Currently: Requires manual measurements
+    - Soution: Robots
+        - How to make economical?
+            -I.e, no super sensors 
+
+Challenge: Wheel slip, unknown traction
+    - Extended Kalman Filter 
+        - Good for linear
+
+Nonlinear moving horizon estimation (NMHE)
+    - Parameters time varying
+
+Nonlinear moving horizon estimation (NMHE)
+    - Parameters time varying
+    - Robust to outliers
+    - How to reduce penalty of outliers
+
+Embedded MPC
+    - Small, Ts in ms, Limited computing platform
+
+MPC Solution Methods:
+    - Direct
+    - Dynamic programming
+    - Indirect Methods
+
+Methods
+Measurement -> NMHE -> Feedback -> NMPC Prep 
+-> NMPC Feedback -> Control
+
+Use multi threading for handling these steps
+
+SM Pedersen B. Blackmore - Cost of robotics
+
+Counting Problem:
+    - How to avoid double-counting?
+    - Use Optical Flow
+
+Roboats:
+Lyapunov for parameter estimation
+
+
+Soft touch grippers for manipulators?
+
+
